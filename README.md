@@ -1,1 +1,1 @@
-# GPL
+# General Programming language implementation
