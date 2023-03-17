@@ -8,7 +8,7 @@ const (
 
 	// Identifiers + literals
 	IDENT  = "IDENT"  // add, amogus, x, y, ...
-	INT    = "INT"    // 1343456
+	INT    = "INT"    // 13434567
 	STRING = "STRING" // "amogus"
 
 	// Operators
